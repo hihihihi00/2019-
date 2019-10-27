@@ -70,7 +70,6 @@ for (var i = 0; i < 1250; i++) {
  }
 
 fill(0);
-
 }
 
 function rainStart() {
